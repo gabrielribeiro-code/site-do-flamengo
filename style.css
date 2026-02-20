@@ -51,19 +51,21 @@ body{
     height: 200px;
     border:4px;
     border-radius: 15px;
-
 }
+
 #final{
     background-color: rgb(221, 23, 23);
     color:white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     padding: 10px;
+    margin-top: 30px;
+    
     
 
 }
 #escalacao{
-
+margin-top: 20px;
     align-items: center;
     justify-content: space-between;
     background-color: rgb(165, 41, 41);
@@ -72,6 +74,7 @@ body{
     text-align: center;
     border: 5px solid white;
     display:flex
+
 }
 
 .img_jogadores{
@@ -79,4 +82,12 @@ body{
     height: 50px;
     margin-right: 120px;
     
+}
+
+.gif{
+    width: 210px;
+    height:210px;
+    position: fixed;
+right: 5px;
+bottom: 10px;
 }
