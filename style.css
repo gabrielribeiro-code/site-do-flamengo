@@ -41,7 +41,7 @@ body{
     background-color: rgb(24, 21, 21);
     border: 5px solid white;
     border-radius: 15px;
-   
+    overflow: hidden;
 
 }
 
@@ -59,13 +59,14 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     padding: 10px;
+    
 
 }
 #escalacao{
-    
+
     align-items: center;
     justify-content: space-between;
-    background-color: black;
+    background-color: rgb(165, 41, 41);
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
